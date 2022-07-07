@@ -1,5 +1,5 @@
-<template lang='pug'>
-button.btn.btn-l(class='btn-primary' onclick="return false;" ontouchstart) i'm button
+<template>
+<button class='btn btn-l btn-primary' onclick="return false;" ontouchstart> i'm button</button>
 
 </template>
 
